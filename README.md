@@ -4,11 +4,7 @@
 🚀 Aspiring software engineer, space technologist, and future MIT student  
 💻 Passionate about Python, game development, AI, and helping others learn to code  
 
-## 🛠️ Projects I’m Working On
-
--  **STEM Video Game Challenge 2025**  
-  A 2D puzzle-adventure game exploring the theme of "Journey". Built with GDevelop.  
-  > Coming July 2025 🚧  
+## 🛠️ Projects I’m Working On 
 
 -  **100 Days of Python Projects**  
   Mini projects including a quiz app, calculator, and chat bot.
@@ -40,7 +36,7 @@
 - 💡 Let’s collaborate on beginner-friendly Python or game dev projects!
 
 **Goals**
-- 🎓 Get accepted into MIT, Stanford, or ETH Zurich to study computer science and aerospace engineering
+- 🎓 Get accepted into Brown, MIT, Stanford, or ETH Zurich to study computer science and aerospace engineering
 - 🚀 Build intelligent software that powers space exploration (Mars and beyond!)
 - 🧠 Create AI tools to improve human creativity, productivity, and education
 - 💸 Become a billionaire founder by solving real-world problems with deep tech
